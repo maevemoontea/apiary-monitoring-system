@@ -1,0 +1,10 @@
+C:\Users\38073\source\repos\ApiaryMonitoringSystem\ApiaryMonitoringSystem.DAL\bin\Debug\netcoreapp3.1\ApiaryMonitoringSystem.DAL.deps.json
+C:\Users\38073\source\repos\ApiaryMonitoringSystem\ApiaryMonitoringSystem.DAL\bin\Debug\netcoreapp3.1\ApiaryMonitoringSystem.DAL.dll
+C:\Users\38073\source\repos\ApiaryMonitoringSystem\ApiaryMonitoringSystem.DAL\obj\Debug\netcoreapp3.1\ApiaryMonitoringSystem.DAL.csprojAssemblyReference.cache
+C:\Users\38073\source\repos\ApiaryMonitoringSystem\ApiaryMonitoringSystem.DAL\obj\Debug\netcoreapp3.1\ApiaryMonitoringSystem.DAL.AssemblyInfoInputs.cache
+C:\Users\38073\source\repos\ApiaryMonitoringSystem\ApiaryMonitoringSystem.DAL\obj\Debug\netcoreapp3.1\ApiaryMonitoringSystem.DAL.AssemblyInfo.cs
+C:\Users\38073\source\repos\ApiaryMonitoringSystem\ApiaryMonitoringSystem.DAL\bin\Debug\netcoreapp3.1\ApiaryMonitoringSystem.DAL.runtimeconfig.json
+C:\Users\38073\source\repos\ApiaryMonitoringSystem\ApiaryMonitoringSystem.DAL\bin\Debug\netcoreapp3.1\ApiaryMonitoringSystem.DAL.runtimeconfig.dev.json
+C:\Users\38073\source\repos\ApiaryMonitoringSystem\ApiaryMonitoringSystem.DAL\bin\Debug\netcoreapp3.1\ApiaryMonitoringSystem.DAL.pdb
+C:\Users\38073\source\repos\ApiaryMonitoringSystem\ApiaryMonitoringSystem.DAL\obj\Debug\netcoreapp3.1\ApiaryMonitoringSystem.DAL.dll
+C:\Users\38073\source\repos\ApiaryMonitoringSystem\ApiaryMonitoringSystem.DAL\obj\Debug\netcoreapp3.1\ApiaryMonitoringSystem.DAL.pdb
