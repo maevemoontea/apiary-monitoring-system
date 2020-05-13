@@ -12,7 +12,7 @@
       "LatestStatus": 
         {
         "Id": 5,
-        "Timestamp": "11.05.2020 22:04:55",
+        "Date": "11.05.2020",
         "BeeHiveId": 1,
         "Temperature": 37.5,
         "Humidity": 72,
@@ -24,7 +24,7 @@
       "LastInspection": 
         {
           "Id": 2,
-         "Timestamp": "10.05.2020 10:32:34"
+         "Date": "10.05.2020"
         }
     },
     {
@@ -39,7 +39,7 @@
       "LatestStatus": 
          {
           "Id": 6,
-         "Timestamp": "11.05.2020 10:37:44",
+         "Date": "11.05.2020",
          "BeeHiveId": 2,
          "Temperature": 36.5,
          "Humidity": 70,
@@ -51,7 +51,7 @@
       "LastInspection": 
           {
           "Id": 3,
-          "Timestamp": "10.05.2020 11:05:14"
+          "Date": "10.05.2020"
            }
     },
     {
@@ -67,7 +67,7 @@
       "LastInspection": 
         {
         "Id": 4,
-        "Timestamp": "11.05.2020 13:43:55"
+        "Date": "11.05.2020"
          }
     }
   ],
