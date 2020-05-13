@@ -43,7 +43,8 @@
       "Title": "Перший точок",
       "CurrentAddress": "с. Гнідин",
       "BeekeeperId": 1,
-      "BeekeeperString": "Женя"
+      "BeekeeperString": "Женя",
+      "HivesCount": 3
     }
   ],
   "HealthStatuses": [
