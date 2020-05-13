@@ -45,6 +45,14 @@
       "BeekeeperId": 1,
       "BeekeeperString": "Женя",
       "HivesCount": 3
+    },
+    {
+      "Id": 2,
+      "Title": "Неіснуючий точок",
+      "CurrentAddress": "десь у мріях",
+      "BeekeeperId": 1,
+      "BeekeeperString": "Женя",
+      "HivesCount": 50
     }
   ],
   "HealthStatuses": [
