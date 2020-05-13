@@ -9,8 +9,23 @@
       "FamilyClass": 1,
       "HiveType": "Дадан",
       "ImageFile": "@/pablic/images/dadanthive.jpeg",
-      "LatestStatus": 5,
-      "LastInspection": 2
+      "LatestStatus": 
+        {
+        "Id": 5,
+        "Timestamp": "11.05.2020 22:04:55",
+        "BeeHiveId": 1,
+        "Temperature": 37.5,
+        "Humidity": 72,
+        "MaxIntencityFrequency": 379,
+        "IntencityOnLow": 65,
+        "IntencityOnMediate": 48,
+        "IntenciryOnHigh": 74
+        },
+      "LastInspection": 
+        {
+          "Id": 2,
+         "Timestamp": "10.05.2020 10:32:34"
+        }
     },
     {
       "Id": 2,
@@ -21,8 +36,23 @@
       "FamilyClass": 2,
       "HiveType": "Український лежак",
       "ImageFile": "@/pablic/images/lezhakhive.jpeg",
-      "LatestStatus": 6,
-      "LastInspection": 3
+      "LatestStatus": 
+         {
+          "Id": 6,
+         "Timestamp": "11.05.2020 10:37:44",
+         "BeeHiveId": 2,
+         "Temperature": 36.5,
+         "Humidity": 70,
+         "MaxIntencityFrequency": 379,
+         "IntencityOnLow": 65,
+         "IntencityOnMediate": 48,
+         "IntenciryOnHigh": 74
+          },
+      "LastInspection": 
+          {
+          "Id": 3,
+          "Timestamp": "10.05.2020 11:05:14"
+           }
     },
     {
       "Id": 3,
@@ -34,7 +64,11 @@
       "HiveType": "Дадан",
       "ImageFile": "",
       "LatestStatus": null,
-      "LastInspection": 4
+      "LastInspection": 
+        {
+        "Id": 4,
+        "Timestamp": "11.05.2020 13:43:55"
+         }
     }
   ],
   "Apiaries": [
@@ -134,5 +168,26 @@
       "IntenciryOnHigh": 74
     }
   ],
-  "Inspections": []
+  "Inspections": [
+    {
+      "Id": 1,
+      "Timestamp": "09.05.2020 12:02:39"
+    },
+    {
+      "Id": 2,
+      "Timestamp": "10.05.2020 10:32:34"
+    },
+    {
+      "Id": 3,
+      "Timestamp": "10.05.2020 11:05:14"
+    },
+    {
+      "Id": 4,
+      "Timestamp": "11.05.2020 13:43:55"
+    },
+    {
+      "Id": 5,
+      "Timestamp": "11.05.2020 15:01:09"
+    }
+  ]
 }
