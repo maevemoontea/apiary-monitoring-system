@@ -73,7 +73,6 @@
     {
       "Id": 1,
       "Number": 4,
-      "ApiaryId": 1,
       "ApiaryName": "Перший точок",
       "QueenBeeBreed": "Карніка",
       "QueenBeeAge": 1,
@@ -100,7 +99,6 @@
     {
       "Id": 2,
       "Number": 5,
-      "ApiaryId": 1,
       "ApiaryName": "Перший точок",
       "QueenBeeBreed": "Україниська степова",
       "QueenBeeAge": 3,
@@ -127,7 +125,6 @@
     {
       "Id": 3,
       "Number": 7,
-      "ApiaryId": 1,
       "ApiaryName": "Перший точок",
       "QueenBeeBreed": "Карніка",
       "QueenBeeAge": 2,
