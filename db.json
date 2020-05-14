@@ -69,6 +69,79 @@
       "NeedControl": false
     }
   ],
+  "BeeHivesExtended": [
+    {
+      "Id": 1,
+      "Number": 4,
+      "ApiaryId": 1,
+      "ApiaryName": "Перший точок",
+      "QueenBeeBreed": "Карніка",
+      "QueenBeeAge": 1,
+      "FamilyClass": 1,
+      "HiveType": "Дадан",
+      "ImageFile": "@/pablic/images/dadanthive.jpeg",
+      "LatestStatus": {
+        "Id": 5,
+        "Date": "11.05.2020",
+        "BeeHiveId": 1,
+        "Temperature": 37.5,
+        "Humidity": 72,
+        "MaxIntencityFrequency": 379,
+        "IntencityOnLow": 65,
+        "IntencityOnMediate": 48,
+        "IntenciryOnHigh": 74
+      },
+      "LastInspection": {
+        "Id": 2,
+        "Date": "10.05.2020"
+      },
+      "NeedControl": true
+    },
+    {
+      "Id": 2,
+      "Number": 5,
+      "ApiaryId": 1,
+      "ApiaryName": "Перший точок",
+      "QueenBeeBreed": "Україниська степова",
+      "QueenBeeAge": 3,
+      "FamilyClass": 2,
+      "HiveType": "Український лежак",
+      "ImageFile": "@/pablic/images/lezhakhive.jpeg",
+      "LatestStatus": {
+        "Id": 6,
+        "Date": "11.05.2020",
+        "BeeHiveId": 2,
+        "Temperature": 36.5,
+        "Humidity": 70,
+        "MaxIntencityFrequency": 379,
+        "IntencityOnLow": 65,
+        "IntencityOnMediate": 48,
+        "IntenciryOnHigh": 74
+      },
+      "LastInspection": {
+        "Id": 3,
+        "Date": "10.05.2020"
+      },
+      "NeedControl": false
+    },
+    {
+      "Id": 3,
+      "Number": 7,
+      "ApiaryId": 1,
+      "ApiaryName": "Перший точок",
+      "QueenBeeBreed": "Карніка",
+      "QueenBeeAge": 2,
+      "FamilyClass": 1,
+      "HiveType": "Дадан",
+      "ImageFile": "",
+      "LatestStatus": null,
+      "LastInspection": {
+        "Id": 4,
+        "Date": "11.05.2020"
+      },
+      "NeedControl": false
+    }
+  ],
   "Apiaries": [
     {
       "Id": 1,
